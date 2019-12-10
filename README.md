@@ -1,4 +1,27 @@
-# harrytsz-leetcode
+# LeetCode :octocat:
+
+[![APM](https://img.shields.io/apm/l/vim-mode.svg?style=plastic)](https://www.apache.org/licenses/LICENSE-2.0)
+[![License](https://img.shields.io/badge/harrytsz-leetcode-<brightgreen>.svg)](https://blog.csdn.net/Harrytsz)
+![Progress](http://progressed.io/bar/1)
+
+
+<div>
+<p align="left">
+	<em>Record the LeetCode problems solution.</em>
+</p>
+<p align="center">
+	<img src="https://ae01.alicdn.com/kf/H085d2afdc83c4762a24898d639838060d.jpg" alt="LOGO" width="330" height="300">
+	<p align="center">
+		<em>既然选择远方，便只顾风雨兼程.</em>
+		<p align="right">
+			<em>-- Harrytsz :anchor:</em>
+		</p>
+	</p>
+</p>
+
+</div>
+
+**Note** : LeetCode.
 
 ### LeetCode Algorithms
 
