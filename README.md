@@ -1,2 +1,3 @@
 # harrytsz-leetcode
-leetcode
+
+Refactor leetcode repository
